@@ -17,15 +17,15 @@ The dashboard tracks coffee sales with key performance metrics across different 
 
 -Customer Segmentation: Identifying top customers based on sales.
 
-## Dataset used
+## Dataset used:
 
 <a href="https://github.com/saivishnu001/Data-Analysis-Dashboard/blob/main/coffeeOrdersData%20Project.xlsx">Dataset</a>
 
 ## Dashboard:
 
+<a href="https://github.com/saivishnu001/Data-Analysis-Dashboard/blob/main/Data%20analysis%20dashboard.png">Dashboard</a>
+
 ![Data analysis dashboard](https://github.com/user-attachments/assets/a00df3df-171c-4cb2-bbd0-ff290909ac21)
-
-
 
 ## Data Structure and Sources
 
