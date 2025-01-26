@@ -7,9 +7,13 @@ Description: Provide an overview of the dashboard's purpose, i.e., monitoring an
 
 ## Dashboard Overview
 The dashboard tracks coffee sales with key performance metrics across different dimensions such as:
+
 -Time: Analyzing trends over months and years.
+
 -Product Categories: Based on coffee types, roast types, and size.
+
 -Geography: Sales performance across countries.
+
 -Customer Segmentation: Identifying top customers based on sales.
 
 ## Dashboard:
