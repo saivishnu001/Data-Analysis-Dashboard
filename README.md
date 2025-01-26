@@ -3,6 +3,7 @@
 ## Project Description
 
 Title: Coffee Sales Analytics Dashboard
+
 Description: Provide an overview of the dashboard's purpose, i.e., monitoring and analyzing coffee sales data to identify trends, high-performing customers, and geographical performance.
 
 ## Dashboard Overview
@@ -23,7 +24,9 @@ The dashboard tracks coffee sales with key performance metrics across different 
 ## Data Structure and Sources
 
 -Data Sources: Mention hypothetical or real sources of data (e.g., transactional sales database, CRM systems, or e-commerce platforms).
+
 -Data Fields:
+
 Order Date
 Coffee Type
 Roast Type
@@ -36,7 +39,9 @@ Sales Amount
 ## Technologies Used
 
 List the tools and frameworks used to create the dashboard, such as:
+
 -Microsoft Excel or Power BI (for visualization).
+
 -Python or SQL (for data preprocessing).
 
 ## Conclusion 
