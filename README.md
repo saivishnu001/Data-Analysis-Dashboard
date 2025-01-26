@@ -23,7 +23,9 @@ The dashboard tracks coffee sales with key performance metrics across different 
 
 ## Data Structure and Sources
 
--Data Sources: Mention hypothetical or real sources of data (e.g., transactional sales database, CRM systems, or e-commerce platforms).
+-Data Sources:
+
+Transactional sales database, e-commerce platform
 
 -Data Fields:
 
@@ -38,7 +40,7 @@ Sales Amount
 
 ## Technologies Used
 
-List the tools and frameworks used to create the dashboard, such as:
+Tools and frameworks used to create the dashboard, such as:
 
 - Microsoft Excel or Power BI (for visualization).
 
