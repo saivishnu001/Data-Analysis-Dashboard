@@ -7,13 +7,13 @@ Provide an overview of the dashboard's purpose, i.e., monitoring and analyzing c
 ## Dashboard Overview
 The dashboard tracks coffee sales with key performance metrics across different dimensions such as:
 
--Time: Analyzing trends over months and years.
+- Time: Analyzing trends over months and years.
 
--Product Categories: Based on coffee types, roast types, and size.
+- Product Categories: Based on coffee types, roast types, and size.
 
--Geography: Sales performance across countries.
+- Geography: Sales performance across countries.
 
--Customer Segmentation: Identifying top customers based on sales.
+- Customer Segmentation: Identifying top customers based on sales.
 
 ## Dataset used:
 
@@ -44,9 +44,9 @@ Sales Amount
 
 List the tools and frameworks used to create the dashboard, such as:
 
--Microsoft Excel or Power BI (for visualization).
+- Microsoft Excel or Power BI (for visualization).
 
--Python or SQL (for data preprocessing).
+- Python or SQL (for data preprocessing).
 
 ## Conclusion 
 
