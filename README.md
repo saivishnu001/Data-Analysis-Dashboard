@@ -1,9 +1,5 @@
 # Coffee Sales Analytics Dashboard (Interative Dashboard creation using MS Excel)
 
-## Project Description
-
-Provide an overview of the dashboard's purpose, i.e., monitoring and analyzing coffee sales data to identify trends, high-performing customers, and geographical performance.
-
 ## Dashboard Overview
 The dashboard tracks coffee sales with key performance metrics across different dimensions such as:
 
